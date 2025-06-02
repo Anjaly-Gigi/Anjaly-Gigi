@@ -1,4 +1,7 @@
-## Hi there , I'm Anjaly 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm <Anjaly Gigi> 👋</h1>
+<h3 align="center">🚀 Passionate Developer | 💡 Tech Enthusiast | 📈 Lifelong Learner</h3>
+
 
 
 
