@@ -1,14 +1,31 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Anjaly Gigi 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#F7A900;">Anjaly Gigi</span> 👋</h1>
 <h3 align="center">🚀 Passionate Developer | 💡 Tech Enthusiast | 📈 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A900&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Things!%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A900&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Things!%F0%9F%92%BB;Always+Curious+%7C+Always+Learning!" alt="Typing SVG" />
 </p>
 
 ---
 
-<center>### 📈 GitHub Stats</center>
+### 👩‍💻 About Me
+
+✨ Hello! I'm **Anjaly Gigi**, a dedicated and enthusiastic software developer who loves building meaningful tech solutions.  
+🌱 I thrive on learning new technologies and am especially passionate about Flutter, Python, and building full-stack applications.  
+🚀 Currently working on personal projects and honing my skills in cloud integration and backend development.  
+🎯 My goal is to continuously grow as a developer and contribute to impactful projects and open source.  
+
+---
+
+### ⚒️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,sqlite,postgres,html,css,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaly-Gigi&show_icons=true&theme=radical" height="150"/> 
@@ -20,20 +37,20 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,sqlite,postgres,html,css,github,vscode" />
-</p>
 
----
-
-<center>### 📬 Connect with Me</center>
+### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:anjalygigi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anjaly-gigi-663ab023a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anjaly-gigi-663ab023a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
+
+<p align="center">
+  ✨ Thank you for visiting my profile! Feel free to explore my repositories and reach out. Let's connect and collaborate!
+</p>
+
 <!--
 **Anjaly-Gigi/Anjaly-Gigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
