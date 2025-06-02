@@ -8,7 +8,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<center>### 📈 GitHub Stats</center>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaly-Gigi&show_icons=true&theme=radical" height="150"/> 
@@ -20,16 +20,13 @@
 </p>
 
 ---
-
-
----
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,sqlite,postgres,html,css,github,vscode" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+<center>### 📬 Connect with Me</center>
 
 <p align="center">
   <a href="mailto:anjalygigi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
