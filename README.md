@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Developer | 💡 Tech Enthusiast | 📈 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A900&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Things!;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A900&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Things!%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
