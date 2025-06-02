@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A900&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Things!%F0%9F%92%BB;Always+Curious+%7C+Always+Learning!" alt="Typing SVG" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,sqlite,postgres,html,css,github,vscode" />
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaly-Gigi&show_icons=true&theme=radical" height="150"/> 
@@ -30,11 +23,6 @@
   <a href="https://www.linkedin.com/in/anjaly-gigi-663ab023a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  ✨ Thank you for visiting my profile! Feel free to explore my repositories and reach out. Let's connect and collaborate!
-</p>
 
 <!--
 **Anjaly-Gigi/Anjaly-Gigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
