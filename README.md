@@ -8,24 +8,11 @@
 
 ---
 
-### 👩‍💻 About Me
-
-✨ Hello! I'm **Anjaly Gigi**, a dedicated and enthusiastic software developer who loves building meaningful tech solutions.  
-🌱 I thrive on learning new technologies and am especially passionate about Flutter, Python, and building full-stack applications.  
-🚀 Currently working on personal projects and honing my skills in cloud integration and backend development.  
-🎯 My goal is to continuously grow as a developer and contribute to impactful projects and open source.  
-
----
-
-### ⚒️ Tech Stack & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,sqlite,postgres,html,css,github,vscode" />
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaly-Gigi&show_icons=true&theme=radical" height="150"/> 
@@ -37,8 +24,6 @@
 </p>
 
 ---
-
-### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:anjalygigi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
