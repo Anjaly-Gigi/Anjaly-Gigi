@@ -7,7 +7,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,sqlite,postgres,html,css,github,vscode,figma" />
+</p>
 
+---
 
 
 <!--
