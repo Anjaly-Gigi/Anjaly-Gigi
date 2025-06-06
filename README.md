@@ -18,7 +18,9 @@
 <br>
 
 </div>
+
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaly-Gigi&show_icons=true&theme=radical" height="150"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaly-Gigi&theme=radical" height="150"/>
