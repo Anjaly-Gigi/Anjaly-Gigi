@@ -10,11 +10,13 @@
 
 <br>
 
-✨I'm <strong>Anjaly Gigi</strong>, a passionate MCA graduate from 🏫🏫 <strong><a href="https://www.mace.ac.in/" target="_blank">Mar Athanasius College of Engineering</a></strong>
+✨I'm <strong>Anjaly Gigi</strong>, a passionate MCA graduate from 🏫<strong><a href="https://www.mace.ac.in/" target="_blank">Mar Athanasius College of Engineering</a></strong>
   
 <br>
-💻 I enjoy exploring new technologies and building creative, user-friendly software solutions.🌱 Currently learning full-stack development and diving deeper into Python, Flutter, and database systems.
+💻 I enjoy exploring new technologies and building creative, user-friendly software solutions.🌱 Currently learning full-stack development and diving deeper into Python, Flutter, and database systems.  
+
 <br>
+
 🎯 My goal is to contribute to impactful projects and continue growing as a developer.<br>💬 I love collaborating, sharing knowledge, and continuously challenging myself to improve.
 
 <br>
