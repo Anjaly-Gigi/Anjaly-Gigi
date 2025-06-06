@@ -8,12 +8,20 @@
 
 <div align="center">
 
-✨ I'm <strong><em>💛 Anjaly Gigi 💛</em></strong>, a passionate MCA graduate from  
-<strong><em>🏫 Mar Athanasius College of Engineering</em></strong>, based in <strong>Ernakulam</strong>.  
-💻 I enjoy exploring new technologies and building creative, user-friendly software solutions.  
-🌱 Currently learning full-stack development and diving deeper into Python, Flutter, and database systems.  
-🎯 My goal is to contribute to impactful projects and continue growing as a developer.  
+<br>
+
+✨ I'm <strong><font color="#F7A900">Anjaly Gigi</font></strong>, a passionate MCA graduate from  
+<strong><font color="#F7A900">Mar Athanasius College of Engineering</font></strong>, based in <strong>Ernakulam</strong>.<br><br>
+
+💻 I enjoy exploring new technologies and building creative, user-friendly software solutions.<br><br>
+
+🌱 Currently learning full-stack development and diving deeper into Python, Flutter, and database systems.<br><br>
+
+🎯 My goal is to contribute to impactful projects and continue growing as a developer.<br><br>
+
 💬 I love collaborating, sharing knowledge, and continuously challenging myself to improve.
+
+<br>
 
 </div>
 
