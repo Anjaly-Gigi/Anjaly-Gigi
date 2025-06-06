@@ -6,17 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A900&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Things!%F0%9F%92%BB;Always+Curious+%7C+Always+Learning!" alt="Typing SVG" />
 </p>
 
+<div align="center">
 
-
-### 👩‍💻 About Me
-
-✨ I'm **Anjaly Gigi**, a passionate MCA graduate from **Mar Athanasius College of Engineering**, based in **Ernakulam**.  
+✨ I'm <strong><em>💛 Anjaly Gigi 💛</em></strong>, a passionate MCA graduate from  
+<strong><em>🏫 Mar Athanasius College of Engineering</em></strong>, based in <strong>Ernakulam</strong>.  
 💻 I enjoy exploring new technologies and building creative, user-friendly software solutions.  
 🌱 Currently learning full-stack development and diving deeper into Python, Flutter, and database systems.  
 🎯 My goal is to contribute to impactful projects and continue growing as a developer.  
 💬 I love collaborating, sharing knowledge, and continuously challenging myself to improve.
 
----
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaly-Gigi&show_icons=true&theme=radical" height="150"/> 
