@@ -10,8 +10,9 @@
 
 <br>
 
-✨ I'm <strong><font color="blue">Anjaly Gigi</font></strong>, a passionate MCA graduate from  
-<strong><font color="F7A900">Mar Athanasius College of Engineering</font></strong>, based in <strong>Ernakulam</strong>.<br>
+✨ 🟡 <strong>Anjaly Gigi</strong> — a passionate MCA graduate from  
+🏫 <strong><a href="https://www.mace.ac.in/" target="_blank">Mar Athanasius College of Engineering</a></strong>, Ernakulam  
+<br><br>
 
 💻 I enjoy exploring new technologies and building creative, user-friendly software solutions.<br>
 
