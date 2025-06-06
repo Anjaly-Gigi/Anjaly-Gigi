@@ -15,14 +15,14 @@
 <br>
 💻 I enjoy exploring new technologies and building creative, user-friendly software solutions.🌱 Currently learning full-stack development and diving deeper into Python, Flutter, and database systems.  
 
-<br>
+<br><br>
 
 🎯 My goal is to contribute to impactful projects and continue growing as a developer.💬 I love collaborating, sharing knowledge, and continuously challenging myself to improve.
 
 <br>
 
 </div>
-
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjaly-Gigi&show_icons=true&theme=radical" height="150"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaly-Gigi&theme=radical" height="150"/>
